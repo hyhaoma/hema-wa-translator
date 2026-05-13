@@ -1,1 +1,1 @@
-# hema-wa-translator
+河马 WhatsApp 翻译助手
